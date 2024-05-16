@@ -1,0 +1,18 @@
+.navbar {
+    color: aqua;
+  }
+  
+
+.dropdown-toggle {
+  /* Button styles (font size, padding, etc.) */
+  font-weight: medium; /* Adjust font weight for emphasis */
+}
+.dropdown {
+  min-width: max-content; /* Ensure dropdown width adapts to content */
+  /* Adjust other styles as needed (padding, border, etc.) */
+}
+.navbar:hover .dropdown {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
