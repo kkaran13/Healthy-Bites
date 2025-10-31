@@ -1,11 +1,9 @@
-# Environment Variables Used in Healthy-Bites
+# Environment Variables Report
+Scanned Branch: **main**
 
-Scanned branch: `main`
-
-## Variables Found
-- `1`
-- `2`
-- `3`
-- `BMI`
-- `calories`
-- `meal.id`
+## /home/runner/work/markdown-automation/markdown-automation/scripts/scan_envs.py
+- `TARGET_BRANCH`
+- `encoding`
+- `errors`
+- `format`
+- `main`
